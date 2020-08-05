@@ -1,13 +1,13 @@
 # R_exericse
 This exercise uses R to scrape internet data and process them into tables that are convenient for further analysis. There are 4 sections presented, namely **(1) Data scraping and cleaning**, **(2) Data re-shaping**, **(3) Data analysis**, and **(4) Analysis report**. The last 2 sections look at the characteristics and composition of families and households in the Atlantic region using 2011 Census data provided by Statistics Canada. Details of each section is given below.
 
-**(1) Data scraping and cleaning** is subdivided into (1a) and (1b),<br />
+**(1) Data scraping and cleaning** is subdivided into (*1a*) and (*1b*),<br />
 
 (*1a*): importing data,  <br />
 - extract national polls' info from 2011 election to 2015 election from this url: https://en.wikipedia.org/wiki/Opinion_polling_in_the_Canadian_federal_election,_2015
 - not all data are interested, the final resulting table should only include information under polling firm, last date of polling, margin of error, sample size, polling method, and the results of the five major federal parties for 364 polls <br />
 
-(1b): cleaning data,  <br />
+(*1b*): cleaning data,  <br />
 - remove unnecesssary rows (including empty and unwanted data),
 - transform the last date of polling data to numeric date format of year-month-day
 - only include polls from 2014 onwards
