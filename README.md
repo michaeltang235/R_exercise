@@ -42,6 +42,7 @@ Further detials related to section (2) can be found in the file 'data-reshaping.
 - task 4: get percent of common-law couples in total census families and how many of them have children at home
 - task 5: get percent of children under 18 in census families
 - task 6: get avg. num. of persons per private household in the Atlantic region<br/>
+
 Further detials related to section (3) can be found in the file 'data-analysis.R'<br/>
 
 **(4) Data reporting**,<br/>
