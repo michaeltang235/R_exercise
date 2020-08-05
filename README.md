@@ -18,7 +18,7 @@ This exercise uses R to scrape internet data and process them into tables that a
 - order data by the last date of polling, from the oldest to the most recent
 - store final table in .csv file named 'e2015polls'  <br />
 
-Further details related to section (1) can be found in the file 'data_scraping.R'  <br/>
+Further details related to section **(1)** can be found in the file 'data_scraping.R'  <br/>
 
 **(2) Data re-shaping**, <br/>
 - download data published by Statistics Canada, 
@@ -27,11 +27,11 @@ Further details related to section (1) can be found in the file 'data_scraping.R
 - rename columns 
 - save transformed table in .csv file named 'census2011ageByProv'<br/>
 
-Further detials related to section (2) can be found in the file 'data-reshaping.R'<br/>
+Further detials related to section **(2)** can be found in the file 'data-reshaping.R'<br/>
 
 **(3) Data analysis**,<br/>
 - as we are interested in family characteristics in the Atlantic region, 
-- use the same url listed in section (2), select relevant rows (i.e. "family charactertics" under column "topic", and each of the Atlantic provinces under "Prov_Name"
+- use the same url listed in section **(2)**, select relevant rows (i.e. "family charactertics" under column "topic", and each of the Atlantic provinces under "Prov_Name"
 - then transfomed the table from long to wide format, with columns of "characteristic" and each Atlantic province
 - a table in wide format is obtained, with each row showing a particular family characterisitc (e.g. size of census family: 2 persons, number of married couples with children at home, etc.), and columns showing the relevant counts in each of the Atlantic provinces
 - assign a unique id to each row, so a specific characteristic across all provinces interested can be obtained conveniently
@@ -43,8 +43,8 @@ Further detials related to section (2) can be found in the file 'data-reshaping.
 - task 5: get percent of children under 18 in census families
 - task 6: get avg. num. of persons per private household in the Atlantic region<br/>
 
-Further detials related to section (3) can be found in the file 'data-analysis.R'<br/>
+Further detials related to section **(3)** can be found in the file 'data-analysis.R'<br/>
 
 **(4) Data reporting**,<br/>
-- use a R Markdown document and write a short summary of the results of analysis conducted in section (3), highlighting key points that are important regarding the family characteristics in the Atlantic region. Also, share the code with others in the document.
+- use a R Markdown document and write a short summary of the results of analysis conducted in section **(3)**, highlighting key points that are important regarding the family characteristics in the Atlantic region. Also, share the code with others in the document.
 
