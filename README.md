@@ -21,7 +21,7 @@ This exercise uses R to scrape internet data and process them into tables that a
 Further details related to section **(1)** can be found in the file 'data_scraping.R'  <br/>
 
 **(2) Data re-shaping**, <br/>
-- download data published by Statistics Canada, 
+- download data published by Statistics Canada, [link](https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Geo2=PR&Code2=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=1)
 - use magrittr syntax to trim the table downloaded to include only data interested
 - transform data from long to wide format
 - rename columns 
