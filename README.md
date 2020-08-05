@@ -17,6 +17,7 @@ This exercise uses R to scrape internet data and process them into tables that a
 - rename columns 
 - order data by the last date of polling, from the oldest to the most recent
 - store final table in .csv file named 'e2015polls'  <br />
+
 Further details related to section (1) can be found in the file 'data_scraping.R'  <br/>
 
 **(2) Data re-shaping**, <br/>
