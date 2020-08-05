@@ -1,7 +1,7 @@
 ---
 title: "Analysis report exercise"
 author: "Michael Tang"
-date: "25/06/2020"
+date: "05/07/2020"
 output:
   pdf_document: default
   html_document: default
