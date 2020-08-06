@@ -46,7 +46,7 @@ Further detials related to section **(2)** can be found in the file 'data-reshap
 Further detials related to section **(3)** can be found in the file 'data-analysis.R'<br/>
 
 **(4) Data reporting**,<br/>
-- use a R Markdown document and write a short summary of the results of analysis conducted in section **(3)**, highlighting key points that are important regarding the family characteristics in the Atlantic region. Also, share the code with others in the document.
+- use a R Markdown document and write a short summary of the results of the analysis conducted in section **(3)**, highlighting key points that are important regarding the family characteristics in the Atlantic region. Also, include snapshots of code in the document.
 
 Script for the R Mardown docuemnt is saved as 'analysis_report_exercise.Rmd'
 
