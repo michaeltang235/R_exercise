@@ -5,7 +5,7 @@ This exercise uses R to scrape internet data and process them into tables that a
 
 (*1a*): importing data,  <br />
 - extract national polls' info from 2011 election to 2015 election from this url: https://en.wikipedia.org/wiki/Opinion_polling_in_the_Canadian_federal_election,_2015
-- not all data are interested, the final resulting table should only include information under polling firm, last date of polling, margin of error, sample size, polling method, and the results of the five major federal parties for 364 polls <br />
+- not all data are interested, the final resultant table should only include information under polling firm, last date of polling, margin of error, sample size, polling method, and the results of the five major federal parties for 364 polls <br />
 
 (*1b*): cleaning data,  <br />
 - remove unnecesssary rows (including empty and unwanted data),
